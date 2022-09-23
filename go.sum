@@ -1,0 +1,4 @@
+github.com/bszcz/mt19937_64 v0.0.0-20130910145052-1d1d0a529983 h1:CdWJjaOgTh+PNSgXO28y6SVX2fCanyke5jBdZQy67SI=
+github.com/bszcz/mt19937_64 v0.0.0-20130910145052-1d1d0a529983/go.mod h1:yQTVB0R60BUs04ANKGiQe96vvXiRh4Y15521jgFW5Vg=
+github.com/ethereum/go-ethereum v1.10.25 h1:5dFrKJDnYf8L6/5o42abCE6a9yJm9cs4EJVRyYMr55s=
+github.com/ethereum/go-ethereum v1.10.25/go.mod h1:EYFyF19u3ezGLD4RqOkLq+ZCXzYbLoNDdZlMt7kyKFg=
