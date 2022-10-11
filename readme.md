@@ -9,4 +9,4 @@ This makes an open meet-in-the middle attack possible.
 
 ## Other things
 
-This version of program is deliberately slow to prevent abuse. DO NOT ASK FOR FASTER VERSION, it will be published after all the chaos.
+This version of program is deliberately slow to prevent abuse. DO NOT ASK FOR FASTER VERSION since the profanity drama is still ongoing.
